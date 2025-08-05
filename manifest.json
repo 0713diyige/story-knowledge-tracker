@@ -1,0 +1,1 @@
+{ "id": "story-knowledge-tracker", "name": "剧情知情人追踪器", "version": "0.1.0", "entry": "index.js", "type": "extension", "tags": ["UI"], "description": "在浮动窗口中显示每个角色所知剧情信息的表格", "author": "0713diyige & ChatGPT" } 
